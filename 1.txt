@@ -10,11 +10,17 @@
 555 https://git-scm.com/book/ru/v2
 
 
-888
+888 // here is my patch ( this comment + deleted info in footer )
 
-//---------
+<footer>
 
-this is testing branch
+
+
+
+
+</footer>
+
+
 
 
 
