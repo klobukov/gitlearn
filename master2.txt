@@ -1,4 +1,4 @@
-git reset --soft HEAD^
+git config --global user.signingkeygit reset --soft HEAD^
 Эта команда отменит последний коммит (но не изменения, которые вы внесли, они сохранятся).
 
 увидеть все коммиты, доступные из refA и refB, но не доступные из refC
