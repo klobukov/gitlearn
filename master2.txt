@@ -5,3 +5,6 @@ git config --global user.signingkeygit reset --soft HEAD^
 
 
 1
+$ git commit -a -S -m 'signed commit'
+
+git filter-branch --tree-filter 'rm -f passwords.txt' HEAD
